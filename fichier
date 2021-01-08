@@ -1,0 +1,10 @@
+aouis@DESKTOP-7F9EO2I MINGW64 ~/Desktop
+$ mkdir example
+
+aouis@DESKTOP-7F9EO2I MINGW64 ~/Desktop
+$ cd example
+
+aouis@DESKTOP-7F9EO2I MINGW64 ~/Desktop/example
+$ touch fichier
+
+
